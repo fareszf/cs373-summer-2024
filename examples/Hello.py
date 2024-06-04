@@ -5,7 +5,7 @@
 # --------
 
 # https://www.python.org
-# https://docs.python.org/release/3.8.10/
+# https://docs.python.org/release/3.10.11/
 # https://docs.python.org/release/3.8.10/library/
 
 print("Nothing to be done.")
