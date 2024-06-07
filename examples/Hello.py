@@ -19,12 +19,12 @@ Python is procedural, object-oriented, dynamically typed, and garbage collected.
 The following commands were executed on UTCS machines (Linux).
 --------------------------------------------------------------
 $ python --version
-Python 2.7.17
+Python 2.7.18
 
 
 
 $ python3 --version
-Python 3.6.9
+Python 3.8.10
 
 
 
@@ -34,7 +34,7 @@ Nothing to be done.
 
 
 $ ls -l Hello.py
--rw------- 1 fares prof 5354 Aug 26  2019 Hello.py
+-rw------- 1 fares prof 5354 Jun 5  2022 Hello.py
 
 $ chmod ugo+x Hello.py
 
@@ -42,13 +42,13 @@ $ Hello.py
 Nothing to be done.
 
 $ ls -l Hello.py
--rwx--x--x 1 fares prof 5354 Aug 26  2019 Hello.py
+-rwx--x--x 1 fares prof 5354 Jun 5  2022 Hello.py
 
 
 
 $ python3
-Python 3.6.9 (default, Apr 18 2020, 01:56:04)
-[GCC 8.4.0] on linux
+Python 3.8.10 (default, Nov 22 2023, 10:22:35)
+[GCC 9.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import Hello
 Nothing to be done.
@@ -72,8 +72,8 @@ Nothing to be done.
 
 		
 $ python3
-Python 3.6.8 (default, Jan 14 2019, 11:02:34)
-[GCC 8.0.1 20180414 (experimental) [trunk revision 259383]] on linux
+Python 3.8.10 (default, Nov 22 2023, 10:22:35)
+[GCC 9.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> help()
 
@@ -187,8 +187,8 @@ has the same effect as typing a particular string at the help> prompt.
 
 
 $ python3
-Python 3.6.9 (default, Apr 18 2020, 01:56:04)
-[GCC 8.4.0] on linux
+Python 3.8.10 (default, Nov 22 2023, 10:22:35)
+[GCC 9.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import this
 The Zen of Python, by Tim Peters
