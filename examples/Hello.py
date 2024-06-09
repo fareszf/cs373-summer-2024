@@ -77,10 +77,10 @@ Python 3.8.10 (default, Nov 22 2023, 10:22:35)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> help()
 
-Welcome to Python 3.6's help utility!
+Welcome to Python 3.8's help utility!
 
 If this is your first time using Python, you should definitely check out
-the tutorial on the Internet at https://docs.python.org/3.6/tutorial/.
+the tutorial on the Internet at https://docs.python.org/3.8/tutorial/.
 
 Enter the name of any module, keyword, or topic to get help on writing
 Python programs and using Python modules.  To quit this help utility and
